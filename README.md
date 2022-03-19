@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amitgohel2129
+- 👋 Hi, I’m AMiT Gohel
 - 👀 I’m interested in Gadgets
 - 🌱 I’m currently learning Python, Tableu
 - 💞️ I’m looking to collaborate on ...
